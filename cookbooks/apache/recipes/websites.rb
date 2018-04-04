@@ -1,4 +1,4 @@
 file 'default www' do
-	path '/var/www/index.html'
-	context 'Hello Harvard!'
+	path '/var/www/html/index.html'
+	content 'Hello Harvard!'
 end
